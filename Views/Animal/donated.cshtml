@@ -1,0 +1,15 @@
+﻿@model Animal
+@{
+    ViewData["Title"] = "donated";
+}
+
+<div class="p-3 mb-15 bg-danger text-white">
+    <p style="font-size:25px;" class="text-center">
+         @Model.Name is thankful to you!
+    </p>
+    
+</div>
+
+<div class="p-3 mb-15">
+    <a asp-action="List"><p class="text-center">Go back</p></a>
+</div>

@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Donate>
+@{
+    ViewData["Title"] = "AdminIndex";
+}
+
+
+<table class="table table-dark">
+    <thead>
+        <tr>
+            <th scope="col">DonateId</th>
+            <th scope="col">Firstname Lastname</th>
+            <th scope="col">Address</th>
+            <th scope="col">Donation </th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var u in Model)
+        {
+        <tr>
+            <td>@u.DonateId</td>
+            <td>@u.Name @u.LastName</td>
+            <td>@u.Address</td>
+            <td>@u.Donation</td>
+        </tr>
+        }
+    </tbody>
+
+</table> 

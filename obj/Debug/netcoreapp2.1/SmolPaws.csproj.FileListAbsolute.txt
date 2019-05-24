@@ -1,0 +1,200 @@
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/bin/Debug/netcoreapp2.1/SmolPaws.deps.json
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/bin/Debug/netcoreapp2.1/SmolPaws.runtimeconfig.json
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/bin/Debug/netcoreapp2.1/SmolPaws.runtimeconfig.dev.json
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/bin/Debug/netcoreapp2.1/SmolPaws.dll
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/bin/Debug/netcoreapp2.1/SmolPaws.pdb
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/bin/Debug/netcoreapp2.1/SmolPaws.Views.dll
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/bin/Debug/netcoreapp2.1/SmolPaws.Views.pdb
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.csprojAssemblyReference.cache
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.csproj.CoreCompileInputs.cache
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.RazorAssemblyInfo.cache
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.RazorAssemblyInfo.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/UserSecretsAssemblyInfo.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.AssemblyInfoInputs.cache
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.AssemblyInfo.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.TagHelpers.input.cache
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.TagHelpers.output.cache
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.RazorCoreGenerate.cache
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ViewStart.g.cshtml.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.RazorTargetAssemblyInfo.cache
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.RazorTargetAssemblyInfo.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.Views.pdb
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.dll
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.pdb
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.csproj.CopyComplete
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Animal/List.g.cshtml.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Animal/Add.g.cshtml.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Animal/Donate.g.cshtml.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Animal/donated.g.cshtml.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Animal/added.g.cshtml.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Error.g.cshtml.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/asus/source/repos/SmolPaws/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ViewImports.g.cshtml.cs
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/bin/Debug/netcoreapp2.1/SmolPaws.deps.json
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/bin/Debug/netcoreapp2.1/SmolPaws.runtimeconfig.json
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/bin/Debug/netcoreapp2.1/SmolPaws.runtimeconfig.dev.json
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/bin/Debug/netcoreapp2.1/SmolPaws.dll
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/bin/Debug/netcoreapp2.1/SmolPaws.pdb
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/bin/Debug/netcoreapp2.1/SmolPaws.Views.dll
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/bin/Debug/netcoreapp2.1/SmolPaws.Views.pdb
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.csprojAssemblyReference.cache
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.csproj.CoreCompileInputs.cache
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.RazorAssemblyInfo.cache
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.RazorAssemblyInfo.cs
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/UserSecretsAssemblyInfo.cs
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.AssemblyInfoInputs.cache
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.AssemblyInfo.cs
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.TagHelpers.input.cache
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.TagHelpers.output.cache
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.RazorCoreGenerate.cache
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Animal/Add.g.cshtml.cs
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Animal/Delete.g.cshtml.cs
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Animal/Donate.g.cshtml.cs
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Animal/donated.g.cshtml.cs
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Animal/List.g.cshtml.cs
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Components/Navbar/Default.g.cshtml.cs
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/User/ChangePassword.g.cshtml.cs
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/User/Logged.g.cshtml.cs
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/User/Login.g.cshtml.cs
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/User/Profile.g.cshtml.cs
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/User/Register.g.cshtml.cs
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.RazorTargetAssemblyInfo.cache
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.RazorTargetAssemblyInfo.cs
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.Views.pdb
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.dll
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.pdb
+/Users/mbdeveci/Downloads/SmolPaws (1)/SmolPaws/obj/Debug/netcoreapp2.1/SmolPaws.csproj.CopyComplete
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.RazorAssemblyInfo.cache
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.RazorAssemblyInfo.cs
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.AssemblyInfo.cs
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.TagHelpers.input.cache
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.TagHelpers.output.cache
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.RazorCoreGenerate.cache
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.dll
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.pdb
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.deps.json
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.runtimeconfig.json
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.runtimeconfig.dev.json
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.dll
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.pdb
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.Views.dll
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.Views.pdb
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Animal\Add.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Animal\Delete.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Animal\Donate.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Animal\donated.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Animal\List.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Navbar\Default.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\User\ChangePassword.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\User\Profile.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\User\Register.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.RazorTargetAssemblyInfo.cache
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.RazorTargetAssemblyInfo.cs
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.Views.pdb
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.csproj.CopyComplete
+C:\Users\asus\Desktop\SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.deps.json
+C:\Users\asus\Desktop\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.runtimeconfig.json
+C:\Users\asus\Desktop\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.runtimeconfig.dev.json
+C:\Users\asus\Desktop\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.dll
+C:\Users\asus\Desktop\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.pdb
+C:\Users\asus\Desktop\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.Views.dll
+C:\Users\asus\Desktop\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.Views.pdb
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.RazorAssemblyInfo.cache
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.RazorAssemblyInfo.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.AssemblyInfo.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.TagHelpers.input.cache
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.TagHelpers.output.cache
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.RazorCoreGenerate.cache
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Animal\Add.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Animal\Delete.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Animal\Donate.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Animal\donated.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Animal\List.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Navbar\Default.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\User\ChangePassword.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\User\Profile.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\User\Register.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.RazorTargetAssemblyInfo.cache
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.RazorTargetAssemblyInfo.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.Views.pdb
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.dll
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.pdb
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.csproj.CopyComplete
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UserList.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AnimalList.g.cshtml.cs
+C:\Users\asus\Desktop\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DonateList.g.cshtml.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.deps.json
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.runtimeconfig.json
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.runtimeconfig.dev.json
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.dll
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.pdb
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.Views.dll
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\bin\Debug\netcoreapp2.1\SmolPaws.Views.pdb
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.RazorAssemblyInfo.cache
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.RazorAssemblyInfo.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.AssemblyInfo.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.TagHelpers.input.cache
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.TagHelpers.output.cache
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.RazorCoreGenerate.cache
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AnimalList.g.cshtml.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DonateList.g.cshtml.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UserList.g.cshtml.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Animal\Add.g.cshtml.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Animal\Delete.g.cshtml.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Animal\Donate.g.cshtml.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Animal\donated.g.cshtml.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Animal\List.g.cshtml.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Navbar\Default.g.cshtml.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\User\ChangePassword.g.cshtml.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.g.cshtml.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\User\Profile.g.cshtml.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\User\Register.g.cshtml.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.RazorTargetAssemblyInfo.cache
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.RazorTargetAssemblyInfo.cs
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.Views.pdb
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.dll
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.pdb
+C:\Users\asus\Desktop\Mehmet_Burak_Deveci_SmolPaws\SmolPaws\obj\Debug\netcoreapp2.1\SmolPaws.csproj.CopyComplete

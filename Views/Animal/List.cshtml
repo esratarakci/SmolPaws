@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Animal>
+@{
+    ViewData["Title"] = "List";
+}
+<div class="album py-5 bg-light">
+    <div class="container">
+
+        <div class="row">
+            @foreach (var a in Model)
+            {
+                <div class="col-md-4">
+                    <div class="card mb-4 shadow-sm">
+                        <img class="card-img-top" src="~/@(a.ImgPath)">
+                        <div class="card-body">
+                            <p class="card-text">@a.Name</p>
+                            <p class="card-text">@a.Desc</p>
+                            <p class="card-text">Donate Needed : @a.DonateNeeded $</p>
+                            <p class="card-text">Current Money : @a.CurrentMoney $ </p>
+                            <p class="card-text">@a.Datetime</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                    @if (ViewBag.OwnerId != null && ViewBag.OwnerId == a.UserId)
+                                    {
+                                        <p><a class="btn btn-dark" asp-controller="Animal" asp-action="Delete" asp-route-id="@a.AnimalId">Delete</a></p>
+                                    }
+                                    else
+                                    {
+                                        <p><a class="btn btn-dark" asp-action="Donate" asp-route-id="@a.AnimalId">Donate</a></p>
+                                    }
+                        </div>
+                    </div>
+                </div>
+             </div>
+                    </div>
+            }
+
+        </div>
+    </div>
+</div>

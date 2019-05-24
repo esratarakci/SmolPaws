@@ -1,0 +1,46 @@
+﻿@model Animal
+@{
+    ViewData["Title"] = "Add";
+}
+<div style="margin-top:25px">
+    <h2> Give us information about your pal!  </h2>
+
+    <form asp-action="Add" method="post" enctype="multipart/form-data">
+        <div asp-validation-summary="All"></div>
+
+
+        <div class="form-group col-md-5">
+
+            <label asp-for="Name">Name : </label>
+            <input asp-for="Name" class="form-control" />
+
+        </div>
+
+        <div class="form-group col-md-5">
+
+            <label asp-for="DonateNeeded">Donate Needed : </label>
+            <input asp-for="DonateNeeded" class="form-control" />
+
+        </div>
+
+        <div class="form-group col-md-5">
+
+            <label asp-for="Desc">Description : </label>
+            <textarea asp-for="Desc" class="form-control"></textarea>
+
+
+
+        </div>
+
+        <div class="form-group col-md-5">
+
+            <p>Upload image:</p>
+            <input type="file" name="files" />
+
+        </div>
+
+        <div class="form-group col-md-5">
+            <button type="submit" class="btn btn-dark">Submit</button>
+        </div>
+    </form>
+</div>

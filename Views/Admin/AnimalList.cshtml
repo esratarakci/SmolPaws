@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Animal>
+@{
+    ViewData["Title"] = "AdminIndex";
+}
+
+
+<table class="table table-dark">
+    <thead>
+        <tr>
+            <th scope="col">AnimalId</th>
+            <th scope="col">Name</th>
+            <th scope="col">Description</th>
+            <th scope="col">Current Money</th>
+            <th scope="col">Donate Needed</th>
+            <th scope="col">Date Time</th>
+            <th scope="col">Image Path</th>
+            <th scope="col">DELETE</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var u in Model)
+        {
+        <tr>
+
+            <td>@u.AnimalId</td>
+            <td>@u.Name</td>
+            <td>@u.Desc</td>
+            <td>@u.CurrentMoney</td>
+            <td>@u.DonateNeeded</td>
+            <td>@u.Datetime</td>
+            <td>@u.ImgPath</td>
+            <td><a asp-action="AnimalDelete" asp-route-id="@u.AnimalId"  class="btn btn-danger">X</a></td>
+        </tr>
+        }
+    </tbody>
+
+</table> 
